@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+training_data/
+runs/
+dist/
+build_output/
+*.log
